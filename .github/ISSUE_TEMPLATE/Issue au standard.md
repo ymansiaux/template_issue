@@ -1,12 +1,10 @@
 ---
-name: Tracking issue FR
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
+name: Issue FR
+about: Utilisez ce template pour creer une issue en français.
+title: "ETQ <user/dev/...>, je souhaite que ... de manière à ce que ..."
 labels: tracking issue, needs triage
-assignees: octocat
+assignees: ymansiaux
 ---
-
-<!-- Mettre le titre de l'issue en suivant le template [tag] ETQ <user/dev/...>, je souhaite que .... tag correspond aux tags feat/fix/ci, etc.-->
 
 ETQ <user/dev/...>, je souhaite que ... de manière à ce que ...
 

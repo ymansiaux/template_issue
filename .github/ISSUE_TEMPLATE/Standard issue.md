@@ -1,14 +1,10 @@
 ---
-name: Tracking issue EN
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
+name: Issue EN
+about: Use this template to create a new issue.
+title: "ETQ <user/dev/...>, I would like to ... in order to ..."
 labels: tracking issue, needs triage
-assignees: octocat
+assignees: ymansiaux
 ---
-
-<!-- Add an issue title following the ThinkR template [tag] ETQ <user/dev/...>, I would like to ... tag correspond to tags feat/fix/ci, etc. -->
-
-ETQ <user/dev/...>, I would like to ... in order to ...
 
 <!-- This part should be helping to understand why is this issue important. What is the final objective ? -->
 
