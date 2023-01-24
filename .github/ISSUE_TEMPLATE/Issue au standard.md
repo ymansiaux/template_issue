@@ -1,3 +1,11 @@
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat
+---
+
 <!-- Mettre le titre de l'issue en suivant le template [tag] ETQ <user/dev/...>, je souhaite que .... tag correspond aux tags feat/fix/ci, etc.-->
 
 ETQ <user/dev/...>, je souhaite que ... de manière à ce que ...

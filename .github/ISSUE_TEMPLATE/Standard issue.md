@@ -1,3 +1,11 @@
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat
+---
+
 <!-- Add an issue title following the ThinkR template [tag] ETQ <user/dev/...>, I would like to ... tag correspond to tags feat/fix/ci, etc. -->
 
 ETQ <user/dev/...>, I would like to ... in order to ...
