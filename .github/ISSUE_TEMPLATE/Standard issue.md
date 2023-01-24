@@ -2,8 +2,6 @@
 name: Issue EN
 about: Use this template to create a new issue.
 title: "ETQ <user/dev/...>, I would like to ... in order to ..."
-labels: tracking issue, needs triage
-assignees: ymansiaux
 ---
 
 <!-- This part should be helping to understand why is this issue important. What is the final objective ? -->
@@ -20,10 +18,3 @@ assignees: ymansiaux
 + [ ] Implementation number 1
 + [ ] Implementation number 2
 + [ ] Technical validation (tests, check etc.)
-
-
-/estimate 30m
-
-/label ~"Prêt"
-
-/assign @assigne

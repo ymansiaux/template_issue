@@ -2,11 +2,7 @@
 name: Issue FR
 about: Utilisez ce template pour creer une issue en français.
 title: "ETQ <user/dev/...>, je souhaite que ... de manière à ce que ..."
-labels: tracking issue, needs triage
-assignees: ymansiaux
 ---
-
-ETQ <user/dev/...>, je souhaite que ... de manière à ce que ...
 
 <!-- Cette partie doit être conçue pour comprendre pourquoi cette demande est importante. Quel est l'objectif final ?-->
 
@@ -23,9 +19,3 @@ ETQ <user/dev/...>, je souhaite que ... de manière à ce que ...
 + [ ] Implémentation numéro 2
 + [ ] Validation technique (tests, check etc.)
 
-
-/estimate 30m
-
-/label ~"Prêt"
-
-/assign @assigne
